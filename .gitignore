@@ -1,0 +1,16 @@
+# Java Builds #
+
+/bin/
+/build/
+*.class
+
+# Eclipse Project Files #
+
+/.project
+/.classpath
+/.settings/
+
+# Operating System Files #
+
+Thumbs.db
+.DS_Store
